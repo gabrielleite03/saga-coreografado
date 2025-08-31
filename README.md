@@ -2,8 +2,6 @@
 
 ## Convertendo o projeto Saga Orquestrado para Saga Coreografado
 
-Repositório contendo o projeto de AULA BÔNUS desenvolvido do curso Arquitetura de Microsserviços: Padrão Saga Orquestrado, ministrado por mim para a plataforma **Udemy**.
-
 O projeto todo foi utilizando a abordagem de Saga Orquestrado, e pode ser visualizado [neste repositório](https://github.com/gabrielleite03/saga-coreografado/),
 converter a arquitetura desenvolvida em um Padrão Saga Coreografado, para endenter a implementação e execução de Coreografia na Saga.
 
